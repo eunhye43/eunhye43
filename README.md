@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working as a Backend Developer.
 - 🌱 I’m learning backend development and data structure.
-- 💬 I pay extra attention to small and trivial things that we could have passed
-by. 
+- 💬 MySQL y MongoDB son mis favoritos!!
 - 📫 I'm an avid book reader.
 - 🧗 I like bouldering
 - ⚡ I love an epiphany.
