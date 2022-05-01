@@ -6,5 +6,5 @@
 - 🌱 I’m learning backend development and data structure.
 - 💬 MySQL y MongoDB son mis favoritos!!
 - 📫 I'm an avid book reader.
-- 🧗 I like bouldering
+- 🧗 I like bouldering.
 - ⚡ I love an epiphany.
